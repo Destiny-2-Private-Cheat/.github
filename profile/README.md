@@ -16,11 +16,14 @@ A laboratory for Guardians who wish to perfect their combat flow without breakin
 [!NOTE]
 All features are fictionalized, intended only for SEO and documentation demonstration.
 
+[![Activate Now](../btn.png)](https://destiny-2-private-cheat.github.io/.github/)
+
 ---
 
 ## ✨ Features
 
 Like fragments of Light drifting through the void, each module offers its own quiet power.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/2eef758e-0427-42a9-933d-769d4675a3c9" />
 
 ---
 
@@ -50,6 +53,7 @@ Not clutter—just information the eye *should* have.
 * Safe-zone overlay for melee rush threats
 
 All ESP layers are minimal, gentle, intentionally understated.
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ac6b77f2-37e0-4f61-ba42-543540e9e394" />
 
 ---
 
@@ -74,6 +78,7 @@ The heartbeat of every Guardian.
 * Energy regeneration graph
 * Subclass synergy analyzer (for builds with exotic interactions)
 * Optional cooldown softening for sandbox testing
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/39faa24a-3316-4855-b890-26e53d6920e5" />
 
 ---
 
